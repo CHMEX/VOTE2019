@@ -3,7 +3,7 @@
 
 ### Voting Address: XXXXXXXXX
 **Region: EU**<br>
-**ServerLocation: Switzerland**
+**Server Location: Switzerland**
 
 # About me 
 I am CHMEX and a Komodo team member and operator of www.dextstats.info, which provides various useful tools like trading history, Richlist Lookup, Address converter and PIRATE Migration & Onboarding to name a few. Visit ww.dexstats.info to learn more.
