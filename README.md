@@ -8,7 +8,7 @@ I am CHMEX and a Komodo team member and operator of www.dextstats.info, which pr
 
 For the first time this election I would like to present myself as a candidate for Notary Node Election 2019 to operate a node in the EU region.
 
-#Why Vote for CHMEX Dexstats
+# Why Vote for CHMEX Dexstats
 
 * Active Community member since 2017. Team member since 2018.
 * Node running in Switzerland politicly stable and Crypto Friendly Goverment.
@@ -22,7 +22,7 @@ For the first time this election I would like to present myself as a candidate f
 * Winner of the BEER&PIZZA atomic swap contest in 2018. I will Airdrop 1:1 PIZZA to all my Voter regardless of the outcome of the Election!<br>
 
 
-#Use of funds:
+# Use of funds:
 
 * Increasing Infrastructer on all Regions.
 * 10% of mined funds to LABS ( min. 150 KMD per Month )
@@ -31,14 +31,14 @@ For the first time this election I would like to present myself as a candidate f
 If I get elected I can setup and pay for more Servers for the next wave of Assetchains. 
 I got some Donations from Community members over the last few month which I'm very thankful. With the current Infrastructer I pay arround USD 200 per month out of my pocket.
 
-#Disclosure:
+# Disclosure:
 * I am an official Komodo team member (volunteering on partime base, not on payroll)
 * PIRATE Member (custodian of 450k. ARRR)
 * Existing LABS Node Operator, therefor have the capability to run a Notary Node
 * Not related or involved with any other Notary Node Operator or Candidate.
 * I'm aware my node's location will be away from most other nodes however I believe in a centralized network which I want to support this way.
 
-#Server Specs:
+# Server Specs:
 * Processor: 2x Xeon E5-2630v3 8x2.4 GHz
 * RAM: 128 GB
 * Disk: 1TB SSD
