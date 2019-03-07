@@ -1,6 +1,6 @@
 # CHMEX Notary Node Proposal 2019
 
-## Region EU:  Server: Switzerland
+### Region EU:  Server: Switzerland
 ## Voting Address: XXXXXXXXX
 
 I am CHMEX and a Komodo team member and operator of www.dextstats.info, which provides various useful tools like trading history, richlist lookup, address converter and pirate migration to name a few. Visit ww.dexstats.info to learn more.
