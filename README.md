@@ -24,19 +24,12 @@ For the first time this election I would like to present myself as a candidate f
 
 # Use of funds:
 
-* Increasing Infrastructer on all Regions.
+* Increasing Infrastructer to all Regions.
 * 10% of mined funds to LABS ( min. 150 KMD per Month )
 * 10% of mined funds to PIRATE ( min. 150 KMD per Month )
 
 If I get elected I can setup and pay for more Servers for the next wave of Assetchains. 
 I got some Donations from Community members over the last few month which I'm very thankful. With the current Infrastructer I pay arround USD 200 per month out of my pocket.
-
-# Disclosure:
-* I am an official Komodo team member (volunteering on partime base, not on payroll)
-* PIRATE Member (custodian of 450k. ARRR)
-* Existing LABS Node Operator, therefor have the capability to run a Notary Node
-* Not related or involved with any other Notary Node Operator or Candidate.
-* I'm aware my node's location will be away from most other nodes however I believe in a centralized network which I want to support this way.
 
 # Server Specs:
 * Processor: 2x Xeon E5-2630v3 8x2.4 GHz
@@ -45,6 +38,15 @@ I got some Donations from Community members over the last few month which I'm ve
 * Redundant Power Supply
 * 1Gbit Up and Down Link
 * Server Location: Central Switzerland 15m Unterground in a ex-Military Bunker now Remodeled Datacenter
+
+# Disclosure:
+* I am an official Komodo team member (volunteering on partime base, not on payroll)
+* PIRATE Member (custodian of 450k. ARRR)
+* Existing LABS Node Operator, therefor have the capability to run a Notary Node
+* Not related or involved with any other Notary Node Operator or Candidate.
+* I'm aware my node's location will be away from most other nodes however I believe in a centralized network which I want to support this way.
+
+
 
 
 
