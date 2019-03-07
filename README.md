@@ -2,8 +2,8 @@
 
 
 ### Voting Address: XXXXXXXXX
-### Region EU:  
-Server: Switzerland
+**Region: EU**
+**Server: Switzerland**
 
 # About me 
 I am CHMEX and a Komodo team member and operator of www.dextstats.info, which provides various useful tools like trading history, Richlist Lookup, Address converter and PIRATE Migration & Onboarding to name a few. Visit ww.dexstats.info to learn more.
@@ -29,7 +29,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * Increasing Infrastructer to all Regions.
 * 10% of mined funds to LABS ( min. 150 KMD per Month )
 * 10% of mined funds to PIRATE ( min. 150 KMD per Month )
-* **In case my Node gets lucky and it mines a Block ( check: www.notarystats.info ) with Rewards >= 500KMD I will Airdrop 75% of it to my Voters.**
+* **In I get luck mining a Big Block ( check: www.notarystats.info ) with Rewards >= 500KMD I will Airdrop 75% of it to my Voters.**
 
 
 If I get elected I can setup and pay for more Servers for the next wave of Assetchains. 
