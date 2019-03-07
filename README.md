@@ -48,7 +48,8 @@ I got some Donations from Community members over the last few month which I'm ve
 * Not related or involved with any other Notary Node Operator or Candidate.
 * I'm aware my node's location will be away from most other nodes however I believe in a centralized network which I want to support this way.
 
-## Thank you for reading my proposal and thank you for sending your Votes to Voting Address: XXXXXXXXX
+## Thank you for reading my proposal and thank you for sending your Votes to
+XXXXXXXXX
 
 
 
