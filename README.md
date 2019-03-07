@@ -17,7 +17,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * Node running in Switzerland politicly stable and Crypto Friendly Goverment.
 * Running www.dexstats.info and all it's tools which you have maybe already used.<br>
 * Running Fullnodes to help the network for all Notarized and known Assetchains<br>
-* Hosting Hourly updated <a href="https://dexstats.info/richlist.php">Richlists</a>.Realtime <a href="https://explorer.dexstats.info">Coinsupply</a> with API.Daily updated <a href="https://dexstats.info/bootstrap.php">Bootstraps</a> on all Notarized Chains. Hosting about 50+ Explorer for Live and Testing https://explorer.dexstats.info
+* Hosting Hourly updated <a href="https://dexstats.info/richlist.php">Richlists</a>. Realtime <a href="https://explorer.dexstats.info">Coinsupply</a> with API. Daily updated <a href="https://dexstats.info/bootstrap.php">Bootstraps</a> on all Notarized Chains. Hosting about 50+ Explorer for Live and Testing https://explorer.dexstats.info . I got BarterDEX listed on CMC with integration.
 * Fullnodes serves currently about 4TB of data per month to the KMD Eco System.<br>
 * Hosting and maintaining API's to feed in Realtime Blockfolio Coinfairvalue Blocktifity Coinmarketcap Coingecko Coinpaprika and others. Serving 4 Mio API calls per day to these sites. That's 46 Reqeusts per second or 1.4 bil Request per year.<br>
 * Helping out People recover/migrate funds. Trusted Middlemen in OTC Transactions.
