@@ -21,15 +21,16 @@ For the first time I would like to present myself as a candidate for Notary Node
 * Fullnodes serves currently about 4TB of data per month to the KMD Eco System.<br>
 * Hosting and maintaining API's to feed in Realtime Blockfolio Coinfairvalue Blocktifity Coinmarketcap Coingecko Coinpaprika and others. Serving 4 Mio API calls per day to these sites. That's 46 Reqeusts per second or 1.4 bil Request per year.<br>
 * Helping out People recover/migrate funds. Trusted Middlemen in OTC Transactions.
-* High level of understanding about the Platform and the tech<br><br>
-* Winner of the BEER&PIZZA atomic swap contest in 2018. I will Airdrop 1:1 PIZZA to all my Voter regardless of the outcome of the Election!<br>
-
+* High level of understanding about the Platform and the tech<br>
+* Winner of the BEER&PIZZA atomic swap contest in 2018. I will Airdrop 1:1 PIZZA to all my Voter regardless of the outcome of the Election!
 
 # Use of Funds:
 
 * Increasing Infrastructer to all Regions.
 * 10% of mined funds to LABS ( min. 150 KMD per Month )
 * 10% of mined funds to PIRATE ( min. 150 KMD per Month )
+* In case my Node gets lucky and it mines a Block ( check: www.notarystats.info ) with Rewards >= 500KMD I will Airdrop 75% of it to my Voters.
+
 
 If I get elected I can setup and pay for more Servers for the next wave of Assetchains. 
 I got some Donations from Community members over the last few month which I'm very thankful. With the current Infrastructer I pay arround USD 200 per month out of my pocket.
