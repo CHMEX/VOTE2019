@@ -29,7 +29,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * Increasing Infrastructer to all Regions.
 * 10% of mined funds to LABS ( min. 150 KMD per Month )
 * 10% of mined funds to PIRATE ( min. 150 KMD per Month )
-* In case my Node gets lucky and it mines a Block ( check: www.notarystats.info ) with Rewards >= 500KMD I will Airdrop 75% of it to my Voters.
+* **In case my Node gets lucky and it mines a Block ( check: www.notarystats.info ) with Rewards >= 500KMD I will Airdrop 75% of it to my Voters.**
 
 
 If I get elected I can setup and pay for more Servers for the next wave of Assetchains. 
