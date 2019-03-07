@@ -11,7 +11,7 @@ I work an IT Job involving Data.
 
 For the first time I would like to present myself as a candidate for Notary Node Election 2019 to operate a Node in the EU region. I only run for one Region and one Node.
 
-# Why Vote for CHMEX Dexstats
+# Why Vote for CHMEX - Dexstats
 
 * Active Community member since 2017. Team member since 2018.
 * Node running in Switzerland politicly stable and Crypto Friendly Goverment.
