@@ -24,7 +24,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * Winner of the BEER&PIZZA atomic swap contest in 2018. I will Airdrop 1:1 PIZZA to all my Voter regardless of the outcome of the Election!<br>
 
 
-# Use of funds:
+# Use of Funds:
 
 * Increasing Infrastructer to all Regions.
 * 10% of mined funds to LABS ( min. 150 KMD per Month )
