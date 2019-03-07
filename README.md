@@ -1,11 +1,13 @@
 # CHMEX Notary Node Proposal 2019
 
+
+### Voting Address: XXXXXXXXX
 ### Region EU:  Server: Switzerland
-## Voting Address: XXXXXXXXX
 
-I am CHMEX and a Komodo team member and operator of www.dextstats.info, which provides various useful tools like trading history, richlist lookup, address converter and pirate migration to name a few. Visit ww.dexstats.info to learn more.
 
-For the first time this election I would like to present myself as a candidate for Notary Node Election 2019 to operate a node in the EU region.
+I am CHMEX and a Komodo team member and operator of www.dextstats.info, which provides various useful tools like trading history, Richlist Lookup, Address converter and PIRATE Migration & Onboarding to name a few. Visit ww.dexstats.info to learn more.
+
+For the first time this election I would like to present myself as a candidate for Notary Node Election 2019 to operate a node in the EU region. I only run for one Region and one Node.
 
 # Why Vote for CHMEX Dexstats
 
