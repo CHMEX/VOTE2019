@@ -7,9 +7,9 @@
 
 # About me 
 I am CHMEX and a Komodo team member and operator of www.dextstats.info, which provides various useful tools like trading history, Richlist Lookup, Address converter and PIRATE Migration & Onboarding to name a few. Visit ww.dexstats.info to learn more.
-I work an IT Job involving Data.
+I work an IT Job involving Data and Metrics.
 
-For the first time I would like to present myself as a candidate for Notary Node Election 2019 to operate a Node in the EU region. I only run for one Region and one Node.
+For the first time I would like to present myself as a candidate for Notary Node Election 2019 to operate a Node in the EU region. I only run for one Region and one Node. In case of auto re-election in 2020 the proposal will be valid too.
 
 # Why Vote for CHMEX - Dexstats
 
