@@ -39,9 +39,10 @@ I got some Donations from Community members over the last few month which I'm ve
 * Processor: 2x Xeon E5-2630v3 8x2.4 GHz
 * RAM: 128 GB
 * Disk: 1TB SSD
-* Redundant Power Supply
+* Redundant Power Supply 100% Renewable Energy
 * 1Gbit Up and Down Link
 * Server Location: Central Switzerland 15m Unterground in a ex-Military Bunker now Remodeled Datacenter
+* ![Image of Datacenter](https://dexstats.info/upload/bunker-dc.png)
 
 # Disclosure:
 * I am an official Komodo team member (volunteering on partime base, not on payroll)
@@ -49,6 +50,7 @@ I got some Donations from Community members over the last few month which I'm ve
 * Existing LABS Node Operator, therefor have the capability to run a Notary Node
 * Not related or involved with any other Notary Node Operator or Candidate.
 * I'm aware my node's location will be away from most other nodes however I believe in a de-centralized network which I want to support this way.
+
 
 ## Thank you for reading my proposal and thank you for sending your Votes to
 XXXXXXXXX
