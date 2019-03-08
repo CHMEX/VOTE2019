@@ -18,7 +18,6 @@ For the first time I would like to present myself as a candidate for Notary Node
 # Why Vote for CHMEX - Dexstats
 
 ### Active Community member since 2017. Team member since 2018. Things I have done include: ###
-* Node running in Switzerland with a politically stable and Crypto Friendly Goverment.
 * Running www.dexstats.info and all it's Tools which you have maybe already used.<br>
 * Running Fullnodes currently about 4TB of outbound data per month to help the network for all Notarized and known Assetchains<br>
 * Hosting Hourly updated <a href="https://dexstats.info/richlist.php">Richlists</a>. Realtime <a href="https://explorer.dexstats.info">Coinsupply</a> with API. Daily updated **<a href="https://dexstats.info/bootstrap.php">Bootstraps</a>** on all Notarized Assetchains. Hosting about 50+ Explorer for Livenetwork and Testing https://explorer.dexstats.info . I got BarterDEX listed on CMC with integration.
@@ -28,6 +27,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * I don't code C but some of my suggested RPC Calls have been implemented by James and Duke.
 * Maintaining and styled https://explorer.pirate.black
 * I will continue creating Tools for the Community. **I believe in a One Operator One Node strategy.** I want to ReDesgin Dexstats and create a Bot to track KMD Reward.
+* Node will be running in Switzerland ( currentlys used for LABS ) with a politically stable and Crypto Friendly Goverment. 
 * I'm helping out people as much as I can on Discord and Telegram.
 
 # Use of Funds:
