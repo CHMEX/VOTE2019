@@ -22,8 +22,10 @@ For the first time I would like to present myself as a candidate for Notary Node
 * Hosting and maintaining API's to feed in Realtime Blockfolio Coinfairvalue Blocktivity **CoinmarketCap** Coingecko Coinpaprika and others. Serving 4 Mio API calls per day to these sites. That's 46 Requests per second or 1.4 bil Request per year.<br>
 * Helping out People Recover/Migrate funds 1+Mio ARRR, 1+Mio USD in NXT Assets saved. Trusted Middlemen in OTC Transactions.
 * Winner of the BEER&PIZZA atomic swap contest in 2018. I will Airdrop 1:1 PIZZA to all my Voter regardless of the outcome of the Election! I was running LP Nodes on odd pairs like DBG/HUSH HUSH/VTC. Will active these Nodes again with mm2.0.
+* I dot not code C but some of my suggested RPC Calls have been implemented by James and Duke.
 * Run and style https://explorer.pirate.black
 * I will continue creating Tools for the Community. **I believe in a One Operator One Node strategy.**
+* I'm helping out people as much as I can on discord.
 
 # Use of Funds:
 
