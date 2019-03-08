@@ -17,7 +17,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 
 # Why Vote for CHMEX - Dexstats
 
-* Active Community member since 2017. Team member since 2018.
+###Active Community member since 2017. Team member since 2018. Things I have done include:###
 * Node running in Switzerland with a politically stable and Crypto Friendly Goverment.
 * Running www.dexstats.info and all it's Tools which you have maybe already used.<br>
 * Running Fullnodes currently about 4TB of outbound data per month to help the network for all Notarized and known Assetchains<br>
