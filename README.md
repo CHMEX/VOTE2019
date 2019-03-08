@@ -30,10 +30,10 @@ For the first time I would like to present myself as a candidate for Notary Node
 
 # Use of Funds:
 
-* Increasing Infrastructer to all Regions :world_map:.
+* Increasing Infrastructer to all Regions :world_map:
 * 10% of mined funds to LABS :microscope: ( min. 150 KMD per Month )
 * 10% of mined funds to PIRATE :sailboat:	:anchor:	( min. 150 KMD per Month )
-* Dedicating more time to the KMD Eco System.
+* Dedicating more time to the KMD Eco System
 * **If I get lucky to mine a big Block ( check: www.notarystats.info ) with Reward >= 500KMD I will Airdrop 67% of it to my Voters.**
 
 If I get elected I can setup, Pay and $BUIDL for more Servers for the next wave of Assetchains in 2019/2020.
