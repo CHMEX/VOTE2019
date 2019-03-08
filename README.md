@@ -2,7 +2,7 @@
 
 
 ### Voting Address: 
-**Region: EU**
+**Region: :european_union:**
 ```
 XXXXXXXXX
 ```
