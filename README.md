@@ -24,11 +24,11 @@ For the first time I would like to present myself as a candidate for Notary Node
 * Hosting Hourly updated <a href="https://dexstats.info/richlist.php">Richlists</a>. Realtime <a href="https://explorer.dexstats.info">Coinsupply</a> with API. Daily updated **<a href="https://dexstats.info/bootstrap.php">Bootstraps</a>** on all Notarized Assetchains. Hosting about 50+ Explorer for Livenetwork and Testing https://explorer.dexstats.info . I got BarterDEX listed on CMC with integration.
 * Hosting and maintaining API's to feed in Realtime Blockfolio Coinfairvalue Blocktivity **CoinmarketCap** Coingecko Coinpaprika and others. Serving 4 Mio API calls per day to these sites. That's 46 Requests per second or 1.4 bil Request per year.<br>
 * Helping out People Recover/Migrate funds 1+Mio ARRR, 1+Mio USD in NXT Assets saved. Trusted Middlemen in OTC Transactions.
-* Winner of the BEER&PIZZA atomic swap contest in 2018. I will Airdrop 2Mio PIZZA-Testcoin to all my Voter regardless of the outcome of the Election! I was running LP Nodes on odd pairs like DBG/HUSH HUSH/VTC. I had PIZZA/BEER LP running. Will active these Nodes again with mm2.0. My addresses have been involved in approx. 15% of all BartertDEX Atomic Swaps.
+* Winner of the :beer:BEER&PIZZA:pizza: Atomic Swap contest in 2018. I will Airdrop 2Mio PIZZA-Testcoin to all my Voter regardless of the outcome of the Election! I was running LP Nodes on odd pairs like DBG/HUSH HUSH/VTC. I had PIZZA/BEER LP running. Will active these Nodes again with mm2.0. My addresses have been involved in approx. 15% of all BartertDEX Atomic Swaps.
 * I don't code C but some of my suggested RPC Calls have been implemented by James and Duke.
 * Maintaining and styled https://explorer.pirate.black
 * I will continue creating Tools for the Community. **I believe in a One Operator One Node strategy.** I want to ReDesgin Dexstats and create a Bot to track KMD Reward.
-* I'm helping out people as much as I can on Discord.
+* I'm helping out people as much as I can on Discord and Telegram.
 
 # Use of Funds:
 
