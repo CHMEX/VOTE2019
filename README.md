@@ -33,8 +33,8 @@ For the first time I would like to present myself as a candidate for Notary Node
 # Use of Funds:
 
 * Increasing Infrastructer to all Regions.
-* 10% of mined funds to LABS ( min. 150 KMD per Month )
-* 10% of mined funds to PIRATE ( min. 150 KMD per Month )
+* 10% of mined funds to LABS :microscope: ( min. 150 KMD per Month )
+* 10% of mined funds to PIRATE :sailboat:	:anchor:	( min. 150 KMD per Month )
 * Dedicating more time to the KMD Eco System.
 * **If I get lucky to mine a Big Block ( check: www.notarystats.info ) with Reward >= 500KMD I will Airdrop 67% of it to my Voters.**
 
@@ -45,7 +45,7 @@ I got some Donations from Community members over the last few month which I'm ve
 * Processor: 2x Xeon E5-2630v3 8x2.4 GHz
 * RAM: 128 GB
 * Disk: 1TB SSD
-* Redundant Power Supply 100% Renewable Energy
+* Redundant Power Supply 100% Renewable Energy :green_heart:
 * 1Gbit Up and Down Link
 * Server Location: Central Switzerland _( Sidenote: 15m Underground in a ex-Military Bunker now Remodeled Datacenter )_
 ![Image of Datacenter](https://dexstats.info/upload/bunker-dc.png)
