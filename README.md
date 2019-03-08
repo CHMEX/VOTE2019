@@ -42,7 +42,7 @@ I got some Donations from Community members over the last few month which I'm ve
 * Disk: 1TB SSD
 * Redundant Power Supply 100% Renewable Energy
 * 1Gbit Up and Down Link
-* Server Location: Central Switzerland ( Sidenode: 15m Unterground in a ex-Military Bunker now Remodeled Datacenter )
+* Server Location: Central Switzerland _( Sidenote: 15m Unterground in a ex-Military Bunker now Remodeled Datacenter )_
 ![Image of Datacenter](https://dexstats.info/upload/bunker-dc.png)
 
 # Disclosure:
