@@ -30,7 +30,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 
 # Use of Funds:
 
-* Increasing Infrastructer to all Regions.
+* Increasing Infrastructer to all Regions :world_map:.
 * 10% of mined funds to LABS :microscope: ( min. 150 KMD per Month )
 * 10% of mined funds to PIRATE :sailboat:	:anchor:	( min. 150 KMD per Month )
 * Dedicating more time to the KMD Eco System.
