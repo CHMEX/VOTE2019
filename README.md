@@ -51,9 +51,9 @@ I got some Donations from Community members over the last few month which I'm ve
 # Disclosure:
 * I am an official Komodo team member (volunteering on partime base, not on payroll)
 * PIRATE Member (custodian of 450k. ARRR)
-* Existing <a href="http://kmd.explorer.dexstats.info/address/RF4HiVeuYpaznRPs7fkRAKKYqT5tuxQQTL">LABS</a> Node Operator, therefore have the capability to run a Notary Node.
+* <a href="http://kmd.explorer.dexstats.info/address/RF4HiVeuYpaznRPs7fkRAKKYqT5tuxQQTL">LABS</a> Node Operator, therefore have the capability to run a Notary Node.
 * Not related or involved with any other Notary Node Operator or Candidate.
-* I'm aware my node's location will be away from most other nodes and possibly the southern most in Europe. however I believe in a de-centralized network which I want to support this way.
+* I'm aware my Node's location will be away from most other Nodes and possibly the southern most in Europe. however I believe in a de-centralized network which I want to support this way.
 
 # Contact:
 * :iphone: Discord: `CHMEX#0686`
