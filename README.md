@@ -23,7 +23,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * Helping out People Recover/Migrate funds 1+Mio ARRR, 1+Mio USD in NXT Assets saved. Trusted Middlemen in OTC Transactions.
 * High level of understanding about the Platform and the tech<br>
 * Winner of the BEER&PIZZA atomic swap contest in 2018. I will Airdrop 1:1 PIZZA to all my Voter regardless of the outcome of the Election! I was running LP Nodes on odd pairs like DBG/HUSH HUSH/VTC. Will active these Nodes again with mm2.0.
-* I will continue creating Tools for the Community. I believe in a One Operator One Node strategy.
+* I will continue creating Tools for the Community. **I believe in a One Operator One Node strategy.**
 
 # Use of Funds:
 
