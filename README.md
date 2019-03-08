@@ -42,7 +42,7 @@ I got some Donations from Community members over the last few month which I'm ve
 * Redundant Power Supply 100% Renewable Energy
 * 1Gbit Up and Down Link
 * Server Location: Central Switzerland 15m Unterground in a ex-Military Bunker now Remodeled Datacenter
-* ![Image of Datacenter](https://dexstats.info/upload/bunker-dc.png)
+![Image of Datacenter](https://dexstats.info/upload/bunker-dc.png)
 
 # Disclosure:
 * I am an official Komodo team member (volunteering on partime base, not on payroll)
