@@ -20,9 +20,10 @@ For the first time I would like to present myself as a candidate for Notary Node
 * Hosting Hourly updated <a href="https://dexstats.info/richlist.php">Richlists</a>. Realtime <a href="https://explorer.dexstats.info">Coinsupply</a> with API. Daily updated <a href="https://dexstats.info/bootstrap.php">Bootstraps</a> on all Notarized Chains. Hosting about 50+ Explorer for Live and Testing https://explorer.dexstats.info . I got BarterDEX listed on CMC with integration.
 * Fullnodes serves currently about 4TB of data per month to the KMD Eco System.<br>
 * Hosting and maintaining API's to feed in Realtime Blockfolio Coinfairvalue Blocktivity Coinmarketcap Coingecko Coinpaprika and others. Serving 4 Mio API calls per day to these sites. That's 46 Requests per second or 1.4 bil Request per year.<br>
-* Helping out People recover/migrate funds. Trusted Middlemen in OTC Transactions.
+* Helping out People Recover/Migrate funds 1+Mio ARRR, 1+Mio USD in NXT Assets saved. Trusted Middlemen in OTC Transactions.
 * High level of understanding about the Platform and the tech<br>
-* Winner of the BEER&PIZZA atomic swap contest in 2018. I will Airdrop 1:1 PIZZA to all my Voter regardless of the outcome of the Election!
+* Winner of the BEER&PIZZA atomic swap contest in 2018. I will Airdrop 1:1 PIZZA to all my Voter regardless of the outcome of the Election! I was running LP Nodes on odd pairs like DBG/HUSH HUSH/VTC. Will active these Nodes again with mm2.0.
+* I will continue creating Tools for the Community. I believe in a One Operator One Node strategy.
 
 # Use of Funds:
 
