@@ -58,8 +58,10 @@ I got some Donations from Community members over the last few month which I'm ve
 * I'm aware my node's location will be away from most other nodes and possibly the southern most in Europe. however I believe in a de-centralized network which I want to support this way.
 
 # Contact:
-* Discord: CHMEX#0686
-* E-Mail: CHMEX@dexstats.info
+* Discord: `CHMEX#0686`
+* E-Mail: `CHMEX (@at) dexstats.info`
 * PGP: 
 ## Thank you for reading my proposal and thank you for sending your Votes to
+```
 XXXXXXXXX
+```
