@@ -36,7 +36,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * 10% of mined funds to LABS :microscope: ( min. 150 KMD per Month )
 * 10% of mined funds to PIRATE :sailboat:	:anchor:	( min. 150 KMD per Month )
 * Dedicating more time to the KMD Eco System.
-* **If I get lucky to mine a Big Block ( check: www.notarystats.info ) with Reward >= 500KMD I will Airdrop 67% of it to my Voters.**
+* **If I get lucky to mine a big Block ( check: www.notarystats.info ) with Reward >= 500KMD I will Airdrop 67% of it to my Voters.**
 
 If I get elected I can setup, Pay and $BUIDL for more Servers for the next wave of Assetchains in 2019/2020.
 I got some Donations from Community members over the last few month which I'm very thankful. With the current Infrastructer I pay arround USD 200 per month out of my pocket.
@@ -58,8 +58,8 @@ I got some Donations from Community members over the last few month which I'm ve
 * I'm aware my node's location will be away from most other nodes and possibly the southern most in Europe. however I believe in a de-centralized network which I want to support this way.
 
 # Contact:
-* Discord: `CHMEX#0686`
-* E-Mail: `CHMEX (@at) dexstats.info`
+* :iphone: Discord: `CHMEX#0686`
+* :e-mail:: `CHMEX (@at) dexstats.info`
 * PGP: 
 ## Thank you for reading my proposal and thank you for sending your Votes to
 ```
