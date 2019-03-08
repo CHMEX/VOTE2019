@@ -5,9 +5,7 @@
 ```
 XXXXXXXXX
 ```
-
 **Region: EU**
-**Server Location: Switzerland**
 
 # About me 
 I am CHMEX a Komodo Team member and Operator of www.dexstats.info, which provides various useful tools like Trading History, Richlist & Lookup, Address Converter and PIRATE Migration & Onboarding to name a few. Visit www.dexstats.info to learn more.
