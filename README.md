@@ -7,7 +7,7 @@
 
 # About me 
 I am CHMEX and a Komodo team member and operator of www.dextstats.info, which provides various useful tools like trading history, Richlist Lookup, Address converter and PIRATE Migration & Onboarding to name a few. Visit ww.dexstats.info to learn more.
-I work an IT Job involving Data and Metrics.
+I work an IT Job in Telco involving Data and Metrics.
 
 For the first time I would like to present myself as a candidate for Notary Node Election 2019 to operate a Node in the EU region. I only run for one Region and one Node. In case of auto re-election in 2020 the proposal will be valid too.
 
@@ -17,11 +17,10 @@ For the first time I would like to present myself as a candidate for Notary Node
 * Node running in Switzerland politicly stable and Crypto Friendly Goverment.
 * Running www.dexstats.info and all it's tools which you have maybe already used.<br>
 * Running Fullnodes to help the network for all Notarized and known Assetchains<br>
-* Hosting Hourly updated <a href="https://dexstats.info/richlist.php">Richlists</a>. Realtime <a href="https://explorer.dexstats.info">Coinsupply</a> with API. Daily updated <a href="https://dexstats.info/bootstrap.php">Bootstraps</a> on all Notarized Chains. Hosting about 50+ Explorer for Live and Testing https://explorer.dexstats.info . I got BarterDEX listed on CMC with integration.
+* Hosting Hourly updated <a href="https://dexstats.info/richlist.php">Richlists</a>. Realtime <a href="https://explorer.dexstats.info">Coinsupply</a> with API. Daily updated **<a href="https://dexstats.info/bootstrap.php">Bootstraps</a>** on all Notarized Assetchains. Hosting about 50+ Explorer for Livenetwork and Testing https://explorer.dexstats.info . I got BarterDEX listed on CMC with integration.
 * Fullnodes serves currently about 4TB of data per month to the KMD Eco System.<br>
-* Hosting and maintaining API's to feed in Realtime Blockfolio Coinfairvalue Blocktivity Coinmarketcap Coingecko Coinpaprika and others. Serving 4 Mio API calls per day to these sites. That's 46 Requests per second or 1.4 bil Request per year.<br>
+* Hosting and maintaining API's to feed in Realtime Blockfolio Coinfairvalue Blocktivity **CoinmarketCap** Coingecko Coinpaprika and others. Serving 4 Mio API calls per day to these sites. That's 46 Requests per second or 1.4 bil Request per year.<br>
 * Helping out People Recover/Migrate funds 1+Mio ARRR, 1+Mio USD in NXT Assets saved. Trusted Middlemen in OTC Transactions.
-* High level of understanding about the Platform and the tech<br>
 * Winner of the BEER&PIZZA atomic swap contest in 2018. I will Airdrop 1:1 PIZZA to all my Voter regardless of the outcome of the Election! I was running LP Nodes on odd pairs like DBG/HUSH HUSH/VTC. Will active these Nodes again with mm2.0.
 * I will continue creating Tools for the Community. **I believe in a One Operator One Node strategy.**
 
@@ -55,8 +54,3 @@ I got some Donations from Community members over the last few month which I'm ve
 
 ## Thank you for reading my proposal and thank you for sending your Votes to
 XXXXXXXXX
-
-
-
-
-
