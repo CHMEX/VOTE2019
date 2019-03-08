@@ -1,8 +1,9 @@
 # CHMEX Notary Node Proposal 2019
 
 
-### Voting Address: XXXXXXXXX
-**Region: EU**<br>
+### Voting Address: 
+`XXXXXXXXX`<br>
+**Region: EU**
 **Server Location: Switzerland**
 
 # About me 
@@ -53,5 +54,9 @@ I got some Donations from Community members over the last few month which I'm ve
 * Not related or involved with any other Notary Node Operator or Candidate.
 * I'm aware my node's location will be away from most other nodes and possibly the southern most in Europe. however I believe in a de-centralized network which I want to support this way.
 
+# Contact:
+* Discord: CHMEX#0686
+* E-Mail: CHMEX@dexstats.info
+* PGP: 
 ## Thank you for reading my proposal and thank you for sending your Votes to
 XXXXXXXXX
