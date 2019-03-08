@@ -2,11 +2,12 @@
 
 
 ### Voting Address: 
-`
+```
 
 XXXXXXXXX
 
-`<br>
+```
+<br>
 **Region: EU**
 **Server Location: Switzerland**
 
