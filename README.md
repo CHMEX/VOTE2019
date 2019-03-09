@@ -38,7 +38,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * **If I get lucky to mine a big Block ( check: <a href="https://notarystats.info"  target="_blank">www.notarystats.info</a> ) with Reward >= 500KMD I will Airdrop 55% of it to my Voters.**
 
 If elected I can setup, run and pay more Servers and most importantly and `$BUIDL $BUIDL $BUIDL` for the next wave of Assetchains in 2019/2020.
-I got some Donations from Community members over the last few month which I'm very thankful. With the current Infrastructer I pay arround USD 200 per month out of my pocket.
+I got some Donations from Community members over the last few month which I'm very thankful. With the current Infrastructer I pay around USD 200 per month out of my pocket.
 
 # Server Specs:
 * Processor: `2x Xeon E5-2630v3 8x2.4 GHz`
@@ -58,7 +58,7 @@ I got some Donations from Community members over the last few month which I'm ve
 
 # Contact:
 * :iphone: Discord: `CHMEX#0686`
-* :e-mail:: `CHMEX (@at) dexstats.info`
+* :e-mail:: `chmex (@at) dexstats.info`
 * PGP: 
 ## Thank you for reading my proposal and thank you for sending your Votes to
 ```
