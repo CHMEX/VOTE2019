@@ -8,10 +8,10 @@ XXXXXXXXX
 ```
 
 # About me 
-I am CHMEX a Komodo Team member and Operator of www.dexstats.info, which provides various useful tools like Trading History, Richlist & Lookup, Address Converter and PIRATE Migration & Onboarding to name a few. Visit www.dexstats.info to learn more.
+I am CHMEX a Komodo Team member and Operator of www.dexstats.info, which provides various useful tools like `Trading History`, `Richlist & Lookup`, `Address Converter` and PIRATE Migration & Onboarding to name a few. Visit www.dexstats.info to learn more.
 I work an IT Job in Telco involving Data and Metrics.
 
-For the first time I would like to present myself as a candidate for Notary Node Election 2019 to operate a Node in the EU region. I only run for one Region and one Node. In case of auto re-election in 2020 the proposed Use of Funds will be valid too.
+For the first time I would like to present myself as a candidate for Notary Node Election 2019 to operate a Node in the `EU Region`. I only run for one Region and one Node. In case of auto re-election in 2020 the proposed Use of Funds will be valid too.
 
 # Why Vote for CHMEX - Dexstats
 
@@ -41,12 +41,12 @@ If I get elected I can setup, Pay and $BUIDL for more Servers for the next wave 
 I got some Donations from Community members over the last few month which I'm very thankful. With the current Infrastructer I pay arround USD 200 per month out of my pocket.
 
 # Server Specs:
-* Processor: 2x Xeon E5-2630v3 8x2.4 GHz
-* RAM: 128 GB
-* Disk: 1TB SSD
+* Processor: `2x Xeon E5-2630v3 8x2.4 GHz`
+* RAM: `128 GB`
+* Disk: `1TB SSD`
 * Redundant Power Supply 100% Renewable Energy :green_heart:
-* 1Gbit Up and Down Link
-* Server Location: Central Switzerland _( Sidenote: 15m Underground in a ex-Military Bunker now Remodeled Datacenter )_
+* Network: `1Gbit Up and Down Link`
+* Server Location: `Central Switzerland` _( Sidenote: 15m Underground in a ex-Military Bunker now Remodeled Datacenter )_
 ![Image of Datacenter](https://dexstats.info/upload/bunker-dc.png)
 
 # Disclosure:
