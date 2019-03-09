@@ -54,7 +54,7 @@ I got some Donations from Community members over the last few month which I'm ve
 * PIRATE Member (custodian of 450k. ARRR)
 * <a href="http://kmd.explorer.dexstats.info/address/RF4HiVeuYpaznRPs7fkRAKKYqT5tuxQQTL">LABS</a> Node Operator, therefore have the capability to run a Notary Node.
 * Not related or involved with any other Notary Node Operator or Candidate.
-* I'm aware my Node's location will be away from most other Nodes and possibly the southern most in Europe. however I believe in a de-centralized network which I want to support this way.
+* I'm aware my Node's location will be away from most other Nodes and possibly the southern most in Europe. However I believe in a de-centralized network which I want to support this way.
 
 # Contact:
 * :iphone: Discord: `CHMEX#0686`
