@@ -4,7 +4,7 @@
 ### Voting Address: 
 **Region: EU**
 ```
-XXXXXXXXX
+RChmexavxcqeJKJqCU6YzrksyVKnXzLiWE
 ```
 
 # About me 
@@ -62,5 +62,5 @@ I got some Donations from Community members over the last few month which I'm ve
 * PGP: 
 ## Thank you for reading my proposal and thank you for sending your Votes to
 ```
-XXXXXXXXX
+RChmexavxcqeJKJqCU6YzrksyVKnXzLiWE
 ```
