@@ -8,7 +8,7 @@ RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
 ```
 
 # About me 
-I am CHMEX a Komodo Team member and Operator of www.dexstats.info, which provides various useful tools like `Trading History`, `Richlist & Lookup`, `Address Converter` and PIRATE Migration & Onboarding to name a few. Visit www.dexstats.info to learn more.
+I am CHMEX a Komodo Team member and Operator of <a href="https://dexstats.info" target="_blank">www.dexstats.info</a>, which provides various useful tools like `Trading History`, `Richlist & Lookup`, `Address Converter` and PIRATE Migration & Onboarding to name a few. Visit <a href="https://dexstats.info" target="_blank">dexstats.info</a> to learn more.
 I work an IT Job in Telco involving Data and Metrics.
 
 For the first time I would like to present myself as a candidate for Notary Node Election 2019 to operate a Node in the `EU Region`. I only run for one Region and one Node. In case of auto re-election in 2020 the proposed Use of Funds will be valid too.
@@ -16,15 +16,15 @@ For the first time I would like to present myself as a candidate for Notary Node
 # Why Vote for CHMEX - Dexstats
 
 ### Active Community member since 2017. Team member since 2018. Things I have done include: ###
-* Running www.dexstats.info and all it's Tools which you have maybe already used.<br>
+* Running <a href="https://dexstats.info" target="_blank">www.dexstats.info</a> and all it's Tools which you have maybe already used.<br>
 * Running Fullnodes with about `4TB` of outbound data per month to help the network for all Notarized and known Assetchains<br>
-* Hosting Hourly updated <a href="https://dexstats.info/richlist.php">Richlists</a>. Realtime <a href="https://explorer.dexstats.info">Coinsupply</a> with API. Daily updated **<a href="https://dexstats.info/bootstrap.php">Bootstraps</a>** on all Notarized Assetchains. Hosting about 50+ Explorers for Livenetwork and Testing https://explorer.dexstats.info . I got BarterDEX listed on CMC with integration.
+* Hosting Hourly updated <a href="https://dexstats.info/richlist.php" target="_blank">Richlists</a>. Realtime <a href="https://explorer.dexstats.info"  target="_blank">Coinsupply</a> with API. Daily updated **<a href="https://dexstats.info/bootstrap.php"  target="_blank">Bootstraps</a>** on all Notarized Assetchains. Hosting about 50+ Explorers for Livenetwork and Testing https://explorer.dexstats.info . I got BarterDEX listed on CMC with integration.
 * Hosting and maintaining API's to feed in Realtime Blockfolio Coinfairvalue Blocktivity **CoinmarketCap** Coingecko Coinpaprika and others. Serving `4 Mio` API calls per day to these sites. That's `46 Req/s` or `1.4 Bil` Request per year.<br>
 * Helping out People Recover/Migrate funds `1+Mio ARRR`, `1+ Mio USD` in NXT Assets saved. Trustee in OTC Transactions.
 * Winner of the :beer:BEER&PIZZA:pizza: Atomic Swap contest in 2018. I will Airdrop `2 Mio` PIZZA-Testcoin to all my Voter regardless of the outcome of the Election! I was running LP Nodes on odd pairs like DBG/HUSH HUSH/VTC. I had PIZZA/BEER LP running. With mm2.0 these Nodes will be activated again. My addresses have been involved in approx. 10% of all BartertDEX Atomic Swaps.
 * I don't code C but some of my suggested RPC Calls have been implemented by James and Duke.
-* My <a href="https://dexstats.info/scale/index.html">20k TPS / Visualization</a> was well Commented
-* Maintaining and styled https://explorer.pirate.black
+* My <a href="https://dexstats.info/scale/index.html"  target="_blank">20k TPS / Visualization</a> was well Commented
+* Maintaining and styled <a href="https://explorer.pirate.black"  target="_blank">https://explorer.pirate.black</a>
 * I will continue creating Tools for the Community. I believe in a **One Operator One Node** strategy. I want to Re-Desgin Dexstats and create a Bot to track KMD Reward.
 * Node is running in Switzerland with a politically stable and Crypto Friendly Goverment. 
 * I'm helping out people as much as I can on Discord and Telegram.
@@ -35,7 +35,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * 10% of total mined KMD to LABS :microscope: ( min. 150 KMD per Month )
 * 10% of total mined KMD to PIRATE :sailboat:	:anchor:	( min. 150 KMD per Month )
 * Dedicating more time to the Komodo Eco System
-* **If I get lucky to mine a big Block ( check: www.notarystats.info ) with Reward >= 500KMD I will Airdrop 55% of it to my Voters.**
+* **If I get lucky to mine a big Block ( check: <a href="https://notarystats.info"  target="_blank">www.notarystats.info</a> ) with Reward >= 500KMD I will Airdrop 55% of it to my Voters.**
 
 If elected I can setup, run and pay more Servers and most importantly and `$BUIDL $BUIDL $BUIDL` for the next wave of Assetchains in 2019/2020.
 I got some Donations from Community members over the last few month which I'm very thankful. With the current Infrastructer I pay arround USD 200 per month out of my pocket.
@@ -52,7 +52,7 @@ I got some Donations from Community members over the last few month which I'm ve
 # Disclosure:
 * I am an official Komodo team member (volunteering on partime base, not on payroll)
 * PIRATE Member (custodian of 450k. ARRR)
-* <a href="http://kmd.explorer.dexstats.info/address/RF4HiVeuYpaznRPs7fkRAKKYqT5tuxQQTL">LABS</a> Node Operator, therefore have the capability to run a Notary Node.
+* <a href="http://kmd.explorer.dexstats.info/address/RF4HiVeuYpaznRPs7fkRAKKYqT5tuxQQTL" target="_blank">LABS</a> Node Operator, therefore have the capability to run a Notary Node.
 * Not related or involved with any other Notary Node Operator or Candidate.
 * I'm aware my Node's location will be away from most other Nodes and possibly the southern most in Europe. However I believe in a de-centralized network which I want to support this way.
 
