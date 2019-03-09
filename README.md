@@ -65,7 +65,8 @@ I got some Donations from Community members over the last few month which I'm ve
 RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
 ```
 
-# PGP Public Key
+
+## PGP Public Key
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: Keybase OpenPGP v1.0.0
