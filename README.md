@@ -40,7 +40,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * 10% of total mined KMD to LABS :microscope: ( min. 150 KMD per Month )
 * 10% of total mined KMD to PIRATE :sailboat:	:anchor:	( min. 150 KMD per Month )
 * Dedicating more time to the Komodo Eco System
-* **If I get lucky to mine a big Block ( check: <a href="https://notarystats.info"  target="_blank">www.notarystats.info</a> ) with Reward >= 500KMD I will Airdrop 55% of it to my Voters. These Big rewards should be for everybody**
+* **If I get lucky to mine a big Block ( check: <a href="https://notarystats.info"  target="_blank">www.notarystats.info</a> ) with Reward >= 500KMD I will Airdrop 67% of it to my Voters. These Big rewards should be for everybody**
 * minimum Funds are paid regardless of the KMD-FIAT Price.
 
 If elected I can setup, run and pay more Servers and create new Tools I have a lot ideas, most importantly and `$BUIDL $BUIDL $BUIDL` for the next wave of Assetchains in 2019/2020.
@@ -52,7 +52,7 @@ I got some Donations from Community members over the last few month which I'm ve
 * Disk: `1TB SSD`
 * Power: `2x Power Supply 100% Renewable Energy` :green_heart:
 * Network: `1 Gbit Up and Down Link`
-* Server Location: `Central Switzerland` _( Sidenote: 15m Underground in a ex-Military Bunker now Remodeled Datacenter )_
+* Server Location: `Central Switzerland` 
 <img src="https://dexstats.info/upload/bunker-dc.png" align="right">
 
 # Disclosure:
