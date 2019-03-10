@@ -47,13 +47,13 @@ If elected I can setup, run and pay more Servers and create new Tools I have a l
 I got some Donations from Community members over the last few month which I'm very thankful. With the current Infrastructer I pay around USD 250 per month out of my pocket.
 
 # Server Specs:
+<img src="https://dexstats.info/upload/bunker-dc.png" align="right">
 * Processor: `2x Xeon E5-2630v3 8x2.4 GHz`
 * RAM: `128 GB`
 * Disk: `1TB SSD`
 * Power: `2x Power Supply 100% Renewable Energy` :green_heart:
 * Network: `1 Gbit Up and Down Link`
-* Server Location: `Central Switzerland` 
-<img src="https://dexstats.info/upload/bunker-dc.png" align="right">
+* Server Location: `Central Switzerland` _( Sidenote: 15m Underground in a ex-Military Bunker now Remodeled Datacenter )_
 
 # Disclosure:
 * I am an official Komodo Team Member (volunteering on partime base, not on payroll)
