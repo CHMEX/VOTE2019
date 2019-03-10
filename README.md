@@ -15,7 +15,8 @@ For the first time I would like to present myself as a candidate for Notary Node
 
 # Why Vote for CHMEX - Dexstats
 
-### ICO Contributor, Active Community Member since 2017, Team member since 2018. Things I have done include: ###
+### ICO Contributor, Active Community Member since 2017, Team member since 2018. ###
+#### Done. Running. #####
 * Running <a href="https://dexstats.info" target="_blank">www.dexstats.info</a> and all it's Tools which you have maybe already used.<br>
 * Running Fullnodes with about `4TB` of outbound data per month to help the network for all Notarized and known Assetchains<br>
 * Hosting Hourly updated <a href="https://dexstats.info/richlist.php" target="_blank">Richlists</a>. Realtime <a href="https://explorer.dexstats.info"  target="_blank">Coinsupply</a> with API. Daily updated **<a href="https://dexstats.info/bootstrap.php"  target="_blank">Bootstraps</a>** on all Notarized Assetchains. Hosting about 50+ Explorers for Live and Testing Network https://explorer.dexstats.info . I got BarterDEX listed on CMC with integration.
@@ -25,9 +26,15 @@ For the first time I would like to present myself as a candidate for Notary Node
 * I don't code C but some of my suggested RPC Calls have been implemented by James and Duke (_getsnapshot coinsupply convaddress_ to name a few.
 * My <a href="https://dexstats.info/scale/index.html"  target="_blank">20k TPS / Visualization</a> was well Commented
 * Maintaining and styled <a href="https://explorer.pirate.black"  target="_blank">https://explorer.pirate.black</a>
-* I will continue creating Tools for the Community. I believe in a **One Operator One Node** strategy. I want to Re-Desgin Dexstats and create a Bot to track KMD Reward.
-* Node is running in Switzerland with a politically stable and Crypto Friendly Goverment. 
 * I'm helping out people as much as I can on Discord and Telegram. A lot of time I test new KMD features.
+* Onboarding System for PIRATE with Referral. https://pirate.dexstats.info 
+
+#### Upcoming #####
+* I will continue creating Tools for the Community as needed. Dexstats needs a Redesign.
+* Node will be running in Switzerland with a politically stable and Crypto Friendly Goverment. I believe in a **One Operator One Node** strategy.
+* Integrated Richlist and Node List to Explorer.
+* KMD Rewards Bot - It will notify you when Rewards stopp acccuring.
+* Simple Fundraising Platform for Eco System Projects.
 
 # Use of Funds:
 
