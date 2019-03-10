@@ -15,7 +15,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 
 # Why Vote for CHMEX - Dexstats
 
-### Active Community member since 2017. Team member since 2018. Things I have done include: ###
+### ICO Contributor, Active Community Member since 2017, Team member since 2018. Things I have done include: ###
 * Running <a href="https://dexstats.info" target="_blank">www.dexstats.info</a> and all it's Tools which you have maybe already used.<br>
 * Running Fullnodes with about `4TB` of outbound data per month to help the network for all Notarized and known Assetchains<br>
 * Hosting Hourly updated <a href="https://dexstats.info/richlist.php" target="_blank">Richlists</a>. Realtime <a href="https://explorer.dexstats.info"  target="_blank">Coinsupply</a> with API. Daily updated **<a href="https://dexstats.info/bootstrap.php"  target="_blank">Bootstraps</a>** on all Notarized Assetchains. Hosting about 50+ Explorers for Live and Testing Network https://explorer.dexstats.info . I got BarterDEX listed on CMC with integration.
