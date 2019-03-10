@@ -1,6 +1,6 @@
 # CHMEX Notary Node Proposal 2019
 
-### Voting Address ###
+## Voting Address ##
 **Region: EU**
 ```
 RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
