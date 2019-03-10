@@ -1,7 +1,6 @@
 # CHMEX Notary Node Proposal 2019
 
-
-### Voting Address: 
+### Voting Address ###
 **Region: EU**
 ```
 RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
@@ -42,7 +41,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * 10% of total mined KMD to PIRATE :sailboat:	:anchor:	( min. 150 KMD per Month )
 * Dedicating more time to the Komodo Eco System
 * **If I get lucky to mine a big Block ( check: <a href="https://notarystats.info"  target="_blank">www.notarystats.info</a> ) with Reward >= 500KMD I will Airdrop 55% of it to my Voters. These Big rewards should be for everybody**
-* minimum Funds are paid no matter the FIAT-KMD Price.
+* minimum Funds are paid regardless of the KMD-FIAT Price.
 
 If elected I can setup, run and pay more Servers and create new Tools I have a lot ideas, most importantly and `$BUIDL $BUIDL $BUIDL` for the next wave of Assetchains in 2019/2020.
 I got some Donations from Community members over the last few month which I'm very thankful. With the current Infrastructer I pay around USD 250 per month out of my pocket.
