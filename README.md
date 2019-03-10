@@ -8,7 +8,7 @@ RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
 ```
 
 # About me 
-I am CHMEX Operator of <a href="https://dexstats.info" target="_blank">www.dexstats.info</a>, which provides various useful tools like `Trading History`, `Richlist & Lookup`, `Address Converter` and PIRATE Migration & Onboarding to Name a few. Visit <a href="https://dexstats.info" target="_blank">dexstats.info</a> to learn more.
+I am CHMEX Operator of <a href="https://dexstats.info" target="_blank">www.dexstats.info</a>, which provides various useful tools like `Trading History`, `Richlist & Lookup`, `Address Converter` and `PIRATE Migration & Onboarding` to name a few. Visit <a href="https://dexstats.info" target="_blank">dexstats.info</a> to learn more.
 I work an DevOPS IT Job in Telco where I'm exposed to a lot of Data.
 
 For the first time I would like to present myself as a candidate for Notary Node Election 2019 to operate a Node in the `EU Region`. **I only run for one Region with one Node**. In case of auto re-election in 2020 the proposed Use of Funds honored aswell.
@@ -27,7 +27,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * My <a href="https://dexstats.info/scale/index.html"  target="_blank">20k TPS / Visualization</a> was well Commented
 * Maintaining and styled <a href="https://explorer.pirate.black"  target="_blank">https://explorer.pirate.black</a>
 * I'm helping out people as much as I can on Discord and Telegram. A lot of time I test new KMD features.
-* Onboarding System for PIRATE with Referral. https://pirate.dexstats.info 
+* Onboarding System for PIRATE with Referral. https://pirate.dexstats.info
 
 #### Upcoming #####
 * I will continue creating Tools for the Community as needed. Dexstats needs a Redesign.
