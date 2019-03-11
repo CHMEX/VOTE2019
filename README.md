@@ -26,7 +26,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * Hosting and maintaining API's to feed in Realtime _Blockfolio Coinfairvalue Blocktivity **CoinmarketCap** Coingecko Coinpaprika_ and others. Serving `4 Mio` API calls per day to these sites. That's `46 Req/s` or `1.4 Bil` Request per year.<br>
 * Helping out People Migrate funds `1+Mio ARRR`, `1+ Mio USD` in NXT Assets saved. Trustee in OTC Transactions.
 * Winner of the :beer:BEER&PIZZA:pizza: Atomic Swap contest in 2018. I will Airdrop `2 Mio` PIZZA-Testcoin to all my Voter regardless of the outcome of the Election! I was running LP Nodes on odd pairs like DBG/HUSH HUSH/VTC during bullmarket. I'm running PIZZA/BEER LP nodes. With mm2.0 these marketmaker Nodes will be activated again. My addresses have been involved in approx. 10% of all BarterDEX Atomic Swaps.
-* I don't code C but some of suggested RPC Calls have been implemented by James and Duke (_getsnapshot coinsupply convaddress_ to name a few.)
+* I don't code C but some of suggested RPC Calls have been implemented by James and Duke (_getsnapshot coinsupply convaddress getchaintxstats_ to name a few.)
 * My <a href="https://dexstats.info/scale/index.html"  target="_blank">20k TPS / Visualization</a> was well Commented
 * Maintaining and styled <a href="https://explorer.pirate.black"  target="_blank">https://explorer.pirate.black</a>
 * I'm helping out people as much as I can on Discord and Telegram. A lot of time I test new KMD features.
@@ -46,7 +46,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * Dedicating more time to the Komodo Eco System
 * **If I get lucky to mine a big Block ( check: <a href="https://notarystats.info"  target="_blank">www.notarystats.info</a> ) with Reward >= 500KMD I will Airdrop 67% of it to my Voters (+10% to LABS, + 10% to PIRATE). These Big rewards should be for everybody.**
 * minimum Funds are paid regardless of the KMD-FIAT Price.
-* I will use Funds to pay Dev Bounties like RPC Intergrations from Bitcore and others.
+* I will use Funds to pay Dev Bounties like RPC Integrations Bitcore and others. <b>getchaintxstats</b> was paid by me.
 
 If elected I can setup, run and pay more Servers and create new Tools I have a lot ideas, most importantly and `$BUIDL $BUIDL $BUIDL` for the next wave of Assetchains in 2019/2020.
 I got some Donations from Community members over the last few month which I'm very thankful. With the current Infrastructer I pay around USD 250 per Month out of my pocket.
