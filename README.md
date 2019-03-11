@@ -46,7 +46,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * minimum Funds are paid regardless of the KMD-FIAT Price.
 
 If elected I can setup, run and pay more Servers and create new Tools I have a lot ideas, most importantly and `$BUIDL $BUIDL $BUIDL` for the next wave of Assetchains in 2019/2020.
-I got some Donations from Community members over the last few month which I'm very thankful. With the current Infrastructer I pay around USD 250 per month out of my pocket.
+I got some Donations from Community members over the last few month which I'm very thankful. With the current Infrastructer I pay around USD 250 per Month out of my pocket.
 
 # Server Specs:
 * <img src="https://dexstats.info/upload/bunker-dc.png" align="right">
