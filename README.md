@@ -2,7 +2,7 @@
 
 ## Voting Address ##
 **Region: EU**
-<img src="https://dexstats.info/upload/qrcode.png" align="right">
+<img src="https://dexstats.info/upload/qrcode.png" align="right" height="50px" width="50px">
 
 ```
 RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
