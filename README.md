@@ -35,8 +35,8 @@ For the first time I would like to present myself as a candidate for Notary Node
 #### Upcoming #####
 * I will continue creating Tools for the Community as needed. Dexstats needs a Redesign.
 * Node will be running in Switzerland with a politically stable and Crypto Friendly Goverment. I believe in a **One Operator One Node** strategy.
-* Integrated Richlist :moneybag: and Node List to Explorers.
-* KMD Rewards Bot - It will notify you when Rewards stopp acccuring.
+* Integrated Richlist :moneybag: and Node List to Explorers. New Type of Explorer might be around the corner.
+* KMD Rewards Bot - It will notify you when Rewards stopp accuring.
 * Simple Fundraising :dollar: Platform for Eco System Projects.
 
 # Use of Funds:
