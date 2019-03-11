@@ -49,7 +49,7 @@ If elected I can setup, run and pay more Servers and create new Tools I have a l
 I got some Donations from Community members over the last few month which I'm very thankful. With the current Infrastructer I pay around USD 250 per Month out of my pocket.
 
 # Server Specs:
-* <img src="https://dexstats.info/upload/bunker-dc.png" align="right">
+  <img src="https://dexstats.info/upload/bunker-dc.png" align="right">
 * Processor: `2x Xeon E5-2630v3 8x2.4 GHz`
 * RAM: `128 GB`
 * Disk: `1TB SSD`
