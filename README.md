@@ -26,7 +26,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * Hosting and maintaining API's to feed in Realtime _Blockfolio Coinfairvalue Blocktivity **CoinmarketCap** Coingecko Coinpaprika_ and others. Serving `4 Mio` API calls per day to these sites. That's `46 Req/s` or `1.4 Bil` Request per year.<br>
 * Helping out People Migrate funds `1+Mio ARRR`, `1+ Mio USD` in NXT Assets saved. Trustee in OTC Transactions.
 * Winner of the :beer:BEER&PIZZA:pizza: Atomic Swap contest in 2018. I will Airdrop `2 Mio` PIZZA-Testcoin to all my Voter regardless of the outcome of the Election! I was running LP Nodes on odd pairs like DBG/HUSH HUSH/VTC during bullmarket. I'm running PIZZA/BEER LP nodes. With mm2.0 these marketmaker Nodes will be activated again. My addresses have been involved in approx. 10% of all BarterDEX Atomic Swaps.
-* I don't code C but some of my suggested RPC Calls have been implemented by James and Duke (_getsnapshot coinsupply convaddress_ to name a few.
+* I don't code C but some of suggested RPC Calls have been implemented by James and Duke (_getsnapshot coinsupply convaddress_ to name a few.)
 * My <a href="https://dexstats.info/scale/index.html"  target="_blank">20k TPS / Visualization</a> was well Commented
 * Maintaining and styled <a href="https://explorer.pirate.black"  target="_blank">https://explorer.pirate.black</a>
 * I'm helping out people as much as I can on Discord and Telegram. A lot of time I test new KMD features.
