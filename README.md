@@ -46,6 +46,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * Dedicating more time to the Komodo Eco System
 * **If I get lucky to mine a big Block ( check: <a href="https://notarystats.info"  target="_blank">www.notarystats.info</a> ) with Reward >= 500KMD I will Airdrop 67% of it to my Voters (+10% to LABS, + 10% to PIRATE). These Big rewards should be for everybody.**
 * minimum Funds are paid regardless of the KMD-FIAT Price.
+* I will use Funds to pay Dev Bounties like RPC Intergrations from Bitcore and others.
 
 If elected I can setup, run and pay more Servers and create new Tools I have a lot ideas, most importantly and `$BUIDL $BUIDL $BUIDL` for the next wave of Assetchains in 2019/2020.
 I got some Donations from Community members over the last few month which I'm very thankful. With the current Infrastructer I pay around USD 250 per Month out of my pocket.
