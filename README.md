@@ -69,7 +69,9 @@ I got some Donations from Community members over the last few month which I'm ve
 * :e-mail:: `chmex (@at) dexstats.info`
 * PGP Fingerprint: `8F9F41D44E98F84013E10F10780F6DE2576B2F6D`
 ## Thank you for reading my proposal and thank you for sending your Votes to
-<img src="https://dexstats.info/upload/qrcode.png" align="right">
+
+<img src="https://dexstats.info/upload/qrcode.png"  align="right" height="150px" width="150px">
+
 ```
 RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
 ```
