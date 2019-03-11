@@ -68,8 +68,8 @@ I got some Donations from Community members over the last few month which I'm ve
 
 # Contact:
 * :iphone: Discord: `CHMEX#0686`
-* :e-mail:: `chmex (@at@) dexstats.info`
-* :key: PGP Fingerprint: `8F9F41D44E98F84013E10F10780F6DE2576B2F6D`
+* :e-mail: Email: `chmex (@at@) dexstats.info`
+* :key: PGP: `8F9F41D44E98F84013E10F10780F6DE2576B2F6D`
 ## Thank you for reading my proposal and thank you for sending your Votes to
 
 <img src="https://dexstats.info/upload/qrcode.png"  align="right" height="150px" width="150px">
