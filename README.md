@@ -44,7 +44,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * 10% of total mined KMD to LABS :microscope: ( min. 150 KMD per Month )
 * 10% of total mined KMD to PIRATE :sailboat:	:anchor:	( min. 150 KMD per Month )
 * Dedicating more time to the Komodo Eco System
-* **If I get lucky to mine a big Block ( check: <a href="https://notarystats.info"  target="_blank">www.notarystats.info</a> ) with Reward >= 500KMD I will Airdrop 67% of it to my Voters (+10% to LABS, + 10% to PIRATE). These Big rewards should be for everybody.**
+* **If I get lucky to mine a big Block ( check: <a href="https://notarystats.info"  target="_blank">www.notarystats.info</a> ) with Reward >= 250KMD I will Airdrop 67% of it to my Voters (+10% to LABS, + 10% to PIRATE). These Big rewards should be for everybody.**
 * minimum Funds are paid regardless of the KMD-FIAT Price.
 * I will use Funds to pay Dev Bounties like RPC Integrations Bitcore and others. <b>getchaintxstats</b> was paid by me.
 
