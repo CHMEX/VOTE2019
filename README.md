@@ -56,12 +56,12 @@ I got some Donations from Community members over the last few month which I'm ve
 * RAM: `128 GB`
 * Disk: `1TB SSD`
 * Power: `2x Power Supply 100% Renewable Energy` :green_heart:
-* Network: `1 Gbit Up and Down Link`
+* Network: `1 Gbit Up and Down Link` Carrier neutral 30 Gbit Interconnect
 * Server Location: `Central Switzerland` _( Sidenote: 15m Underground in a ex-Military Bunker now Remodeled Datacenter )_
 
 # Disclosure:
 * I am an official Komodo Team Member (volunteering on partime base, not on payroll)
-* PIRATE Member First Mate (Custodian of 250k. ARRR)
+* PIRATE Member First Mate (Custodian of 250k ARRR)
 * <a href="http://kmd.explorer.dexstats.info/address/RF4HiVeuYpaznRPs7fkRAKKYqT5tuxQQTL" target="_blank">LABS</a> Node Operator, therefore have the capability to run a Notary Node.
 * Not related or involved with any other Notary Node Operator or Candidate.
 * To my current knowledge the location of my Node will be southern-most in Europe. I believe in a de-centralized network which I want to support this way.
