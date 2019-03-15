@@ -32,19 +32,19 @@ For the first time I would like to present myself as a candidate for Notary Node
 * I'm helping out people as much as I can on Discord and Telegram. A lot of time I test new KMD features.
 * Onboarding System for PIRATE with <a href="https://pirate.dexstats.info?VOTE2019">Referral System</a>. 
 
-#### Upcoming #####
-* I will continue creating Tools for the Community as needed. Dexstats needs a Redesign.
-* Node will be running in Switzerland with a politically stable and Crypto Friendly Goverment. I believe in a **One Operator One Node** strategy.
+#### Upcoming in Development #####
 * Integrated Richlist :moneybag: and Node List to Explorers. New Type of Explorer might be around the corner.
 * KMD Rewards Bot - It will notify you when Rewards stopp accruing.
 * Simple Fundraising :dollar: Platform for Eco System Projects.
+* I will continue creating Tools for the Community as needed. Dexstats needs a Redesign.
+* Node will be running in Switzerland with a politically stable and Crypto Friendly Goverment.
 
 # Use of Funds:
 * Increasing Infrastructer to all Regions :world_map:
 * 10% of total mined KMD to LABS :microscope: ( min. 150 KMD per Month )
 * 10% of total mined KMD to PIRATE :sailboat:	:anchor:	( min. 150 KMD per Month )
 * Dedicating more time to the Komodo Eco System
-* **If I get lucky to mine a big Block ( check: <a href="https://notarystats.info"  target="_blank">www.notarystats.info</a> ) with Reward >= 250KMD I will Airdrop 67% of it to my Voters (+10% to LABS, + 10% to PIRATE). These Big Rewards should be for Everybody.**
+* **If I get to mine a big Block ( check: <a href="https://notarystats.info"  target="_blank">www.notarystats.info</a> ) with Reward >= 250KMD I will Airdrop 67% of it to my Voters (+10% to LABS, + 10% to PIRATE). These Big Rewards should be for Everybody.**
 * minimum Funds are paid regardless of the KMD-FIAT Price.
 * I will use Funds to pay Dev Bounties like RPC Integrations Bitcore and others. <a href="https://github.com/jl777/komodo/pull/1328"><b>getchaintxstats</b></a> to KMD was paid by me.
 
@@ -63,7 +63,6 @@ I got some Donations from Community members over the last few month which I'm ve
 * I am an official Komodo Team Member (volunteering on partime base, not on payroll)
 * PIRATE Member First Mate (Custodian of 250k ARRR)
 * <a href="http://kmd.explorer.dexstats.info/address/RF4HiVeuYpaznRPs7fkRAKKYqT5tuxQQTL" target="_blank">LABS</a> Node Operator, therefore have the capability to run a Notary Node.
-* Not related or involved with any other Notary Node Operator or Candidate.
 * To my current knowledge the location of my Node will be southern-most in Europe. I believe in a de-centralized network which I want to support this way.
 
 # Contact:
