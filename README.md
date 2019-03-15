@@ -18,7 +18,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 
 # Why Vote for CHMEX - Dexstats
 
-### ICO Contributor, Active Community Member since 2017, Team member since 2018. ###
+### ICO Contributor, Active Community Member since 2017, Team Member since 2018. ###
 #### Done. Running. #####
 * Running <a href="https://dexstats.info" target="_blank">www.dexstats.info</a> and all it's Tools which you have maybe already used.<br>
 * Running Fullnodes with about `4TB` of outbound data per month to help the network for all Notarized and known Assetchains<br>
@@ -30,7 +30,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * My <a href="https://dexstats.info/scale/index.html"  target="_blank">20k TPS / Visualization</a> was well Commented
 * Maintaining and styled <a href="https://explorer.pirate.black"  target="_blank">https://explorer.pirate.black</a>
 * I'm helping out people as much as I can on Discord and Telegram. A lot of time I test new KMD features.
-* Onboarding System for PIRATE with Referral. https://pirate.dexstats.info
+* Onboarding System for PIRATE with <a href="https://pirate.dexstats.info?VOTE2019">Referral System</a>. 
 
 #### Upcoming #####
 * I will continue creating Tools for the Community as needed. Dexstats needs a Redesign.
