@@ -2,7 +2,7 @@
 
 ## Voting Address ##
 **Region: EU**
-<img src="https://dexstats.info/upload/qrcode.png" align="right" height="150px" width="150px">
+<img src="https://github.com/CHMEX/VOTE2019/raw/master/chmex_qr_voting.png" align="right" height="150px" width="150px">
 
 ```
 RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
@@ -52,7 +52,7 @@ If elected I can setup, run and pay more Servers and create new Tools I have a l
 I got some Donations from Community members over the last few month which I'm very thankful. With the current Infrastructer I pay around USD 250 per Month out of my pocket.
 
 # Server Specs:
-* Processor: `2x Xeon E5-2630v3 8x2.4 GHz` <img src="https://dexstats.info/upload/bunker-dc.png" align="right">
+* Processor: `2x Xeon E5-2630v3 8x2.4 GHz` <img src="https://github.com/CHMEX/VOTE2019/raw/master/chmex_datacenter.png" align="right">
 * RAM: `128 GB`
 * Disk: `1TB SSD`
 * Power: `2x Power Supply 100% Renewable Energy` :green_heart:
@@ -72,7 +72,7 @@ I got some Donations from Community members over the last few month which I'm ve
 * :key: PGP: `8F9F41D44E98F84013E10F10780F6DE2576B2F6D`
 ## Thank you for reading my proposal and thank you for sending your Votes to
 
-<img src="https://dexstats.info/upload/qrcode.png"  align="right" height="150px" width="150px">
+<img src="https://github.com/CHMEX/VOTE2019/raw/master/chmex_qr_voting.png" align="right" height="150px" width="150px">
 
 ```
 RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
