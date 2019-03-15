@@ -2,7 +2,7 @@
 
 ## Voting Address ##
 **Region: EU**
-<img src="https://github.com/CHMEX/VOTE2019/raw/master/chmex_qr_voting.png" align="right" height="150px" width="150px">
+<img src="https://github.com/CHMEX/VOTE2019/raw/master/chmex_qr_voting.png" align="right" height="190px" width="150px">
 
 ```
 RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
@@ -72,7 +72,7 @@ I got some Donations from Community members over the last few month which I'm ve
 * :key: PGP: `8F9F41D44E98F84013E10F10780F6DE2576B2F6D`
 ## Thank you for reading my proposal and thank you for sending your Votes to
 
-<img src="https://github.com/CHMEX/VOTE2019/raw/master/chmex_qr_voting.png" align="right" height="150px" width="150px">
+<img src="https://github.com/CHMEX/VOTE2019/raw/master/chmex_qr_voting.png" align="right" height="190px" width="150px">
 
 ```
 RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
