@@ -14,7 +14,7 @@ RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
 I am CHMEX Operator of <a href="https://dexstats.info" target="_blank">www.dexstats.info</a>, which provides various useful tools like `Trading History`, `Richlist & Lookup`, `Address Converter` and `PIRATE Migration & Onboarding` to name a few. Visit <a href="https://dexstats.info" target="_blank">dexstats.info</a> to learn more.
 I work an DevOPS IT Job in Telco where I'm exposed to a lot of Data.
 
-For the first time I would like to present myself as a candidate for Notary Node Election 2019 to operate a Node in the `EU Region`. **I only run for one Region with one Node**. In case of auto re-election in 2020 the proposed Use of Funds honored aswell.
+For the first time I would like to present myself as a candidate for Notary Node Election 2019 to operate a Node in the `EU Region`. **I only run for one Region with one Node**. In case of auto re-election in 2020 the proposed Use of Funds honored as well.
 
 # Why Vote for CHMEX - Dexstats
 
@@ -36,7 +36,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * I will continue creating Tools for the Community as needed. Dexstats needs a Redesign.
 * Node will be running in Switzerland with a politically stable and Crypto Friendly Goverment. I believe in a **One Operator One Node** strategy.
 * Integrated Richlist :moneybag: and Node List to Explorers. New Type of Explorer might be around the corner.
-* KMD Rewards Bot - It will notify you when Rewards stopp accuring.
+* KMD Rewards Bot - It will notify you when Rewards stopp accruing.
 * Simple Fundraising :dollar: Platform for Eco System Projects.
 
 # Use of Funds:
