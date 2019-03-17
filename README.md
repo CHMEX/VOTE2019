@@ -10,13 +10,13 @@ RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
 
 <br>
 
-## :nerd_face: About me 
+## About me 
 I am CHMEX Operator of <a href="https://dexstats.info" target="_blank">www.dexstats.info</a>, which provides various useful tools like `Trading History`, `Richlist & Lookup`, `Address Converter` and `PIRATE Migration & Onboarding` to name a few. Visit <a href="https://dexstats.info" target="_blank">dexstats.info</a> to learn more.
 I work an DevOPS IT Job in Telco where I'm exposed to a lot of Data.
 
 For the first time I would like to present myself as a candidate for Notary Node Election 2019 to operate a Node in the `EU Region`. **I only run for one Region with one Node**. In case of auto re-election in 2020 the proposed Use of Funds honored as well.
 
-## :hammer: Why Vote for CHMEX - Dexstats
+## Why Vote for CHMEX - Dexstats
 
 ### ICO Contributor, Active Community Member since 2017, Team Member since 2018. ###
 #### :heavy_check_mark: Done. Running. #####
@@ -32,14 +32,14 @@ For the first time I would like to present myself as a candidate for Notary Node
 * I'm helping out people as much as I can on Discord and Telegram. A lot of time I test new KMD features.
 * Onboarding System for PIRATE with <a href="https://pirate.dexstats.info?VOTE2019">Referral System</a>. 
 
-#### :soon: Upcoming in Development #####
+#### Upcoming in Development #####
 * Integrated Richlist :moneybag: and Node List to Explorers. New Type of Explorer might be around the corner.
 * KMD Rewards Bot - It will notify you when Rewards stopp accruing.
 * Simple Fundraising :dollar: Platform for Eco System Projects.
 * I will continue creating Tools for the Community as needed. Dexstats needs a Redesign.
 * Node will be running in Switzerland with a politically stable and Crypto Friendly Goverment.
 
-## :euro: Use of Funds:
+## Use of Funds:
 * Increasing Infrastructer to all Regions :world_map:
 * 10% of total mined KMD to LABS :microscope: ( min. 150 KMD per Month )
 * 10% of total mined KMD to PIRATE :sailboat:	:anchor:	( min. 150 KMD per Month )
