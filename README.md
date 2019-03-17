@@ -19,13 +19,13 @@ For the first time I would like to present myself as a candidate for Notary Node
 # Why Vote for CHMEX - Dexstats
 
 ### ICO Contributor, Active Community Member since 2017, Team Member since 2018. ###
-#### Done. Running. #####
+#### :heavy_check_mark: Done. Running. #####
 * Running <a href="https://dexstats.info" target="_blank">www.dexstats.info</a> and all it's Tools which you have maybe already used.<br>
 * Running Fullnodes with about `4TB` of outbound data per month to help the network for all Notarized and known Assetchains<br>
 * Hosting Hourly updated <a href="https://dexstats.info/richlist.php" target="_blank">Richlists</a>. Realtime <a href="https://explorer.dexstats.info"  target="_blank">Coinsupply</a> with API. Daily updated **<a href="https://dexstats.info/bootstrap.php"  target="_blank">Bootstraps</a>** on all Notarized Assetchains. Hosting about 50+ Explorers for Live and Testing Network https://explorer.dexstats.info . I got BarterDEX listed on CMC with integration.
 * Hosting and maintaining API's to feed in Realtime _Blockfolio Coinfairvalue Blocktivity **CoinmarketCap** Coingecko Coinpaprika_ and others. Serving `4 Mio` API calls per day to these sites. That's `46 Req/s` or `1.4 Bil` Request per year.<br>
-* Helping out People Migrate funds `1+Mio ARRR`, `1+ Mio USD` in NXT Assets saved. Trustee in OTC Transactions.
-* Winner of the :beer:BEER&PIZZA:pizza: Atomic Swap contest in 2018. I will Airdrop `2 Mio` PIZZA-Testcoin to all my Voter regardless of the outcome of the Election! I was running LP Nodes on odd pairs like DBG/HUSH HUSH/VTC during bullmarket. I'm running PIZZA/BEER LP nodes. With mm2.0 these marketmaker Nodes will be activated again. My addresses have been involved in approx. 10% of all BarterDEX Atomic Swaps.
+* Helping out People Migrate funds `1+ Mio ARRR`, `1+ Mio USD` in NXT Assets saved. Trustee in OTC Transactions.
+* :trophy: Winner of the :beer:BEER & PIZZA:pizza: Atomic Swap contest in 2018. I will Airdrop `2 Mio` PIZZA-Testcoin to all my Voter regardless of the outcome of the Election! I was running LP Nodes on odd Pairs like DBG/HUSH HUSH/VTC during bullmarket. I'm running PIZZA/BEER LP nodes. With mm2.0 these marketmaker Nodes will be activated again. My addresses have been involved in approx. 10% of all BarterDEX Atomic Swaps.
 * I don't code C but some of suggested RPC Calls have been implemented by James and Duke (_getsnapshot coinsupply convaddress getchaintxstats_ to name a few.)
 * My <a href="https://dexstats.info/scale/index.html"  target="_blank">20k TPS / Visualization</a> was well Commented
 * Maintaining and styled <a href="https://explorer.pirate.black"  target="_blank">https://explorer.pirate.black</a>
