@@ -67,9 +67,9 @@ I got some Donations from Community members over the last few month which I'm ve
 * First Time Running for a Noatry Node
 
 ## Contact:
-:iphone: Discord: `CHMEX#0686`
-:e-mail: Email: `chmex@dexstats.info`
-:key: PGP: `8F9F41D44E98F84013E10F10780F6DE2576B2F6D`
+:iphone: Discord: `CHMEX#0686`<br>
+:e-mail: Email: `chmex@dexstats.info`<br>
+:key: PGP: `8F9F41D44E98F84013E10F10780F6DE2576B2F6D`<br>
 
 ## Vote Now Deadline 14th May 2019
 ### Thank you for reading my Proposal and sending your VOTE2019 to 
