@@ -42,9 +42,9 @@ For the first time I would like to present myself as a candidate for Notary Node
 ## Use of Funds:
 * Increasing Infrastructer to all Regions :world_map:
 * 10% of total mined KMD to LABS :microscope: ( min. 150 KMD per Month )
-* 10% of total mined KMD to PIRATE :sailboat:	:anchor:	( min. 150 KMD per Month )
+* 10% of total mined KMD to PIRATE :sailboat:	☠️ ( min. 150 KMD per Month )
 * Dedicating more time to the Komodo Eco System
-* **If I get to mine a big Block ( check: <a href="https://notarystats.info"  target="_blank">www.notarystats.info</a> ) with Reward >= 250KMD I will Airdrop 67% of it to my Voters (+10% to LABS, + 10% to PIRATE). These Big Rewards should be for Everybody.**
+* **If I get to mine a big Block ( check: <a href="https://notarystats.info"  target="_blank">www.notarystats.info</a> ) with Reward >= 250KMD I will Airdrop 67% of it to my Voters (+10% to LABS, + 10% to PIRATE ☠️). These Big Rewards should be for Everybody.**
 * minimum Funds are paid regardless of the KMD-FIAT Price.
 * I will use Funds to pay Dev Bounties like RPC Integrations Bitcore and others. <a href="https://github.com/jl777/komodo/pull/1328"><b>getchaintxstats</b></a> to KMD was paid by me.
 
@@ -61,7 +61,7 @@ I got some Donations from Community members over the last few month which I'm ve
 
 ## Disclosure:
 * I am an official Komodo Team Member (volunteering on partime base, not on payroll)
-* PIRATE Member First Mate ☠️
+* PIRATE Member First Mate 🏴
 * <a href="http://kmd.explorer.dexstats.info/address/RF4HiVeuYpaznRPs7fkRAKKYqT5tuxQQTL" target="_blank">LABS</a> Node Operator, therefore have the capability to run a Notary Node
 * To my current knowledge the location of my Node will be southern-most in Europe. It's outside of Hetzner / OVH Network I believe in a de-centralized network which I want to support this way.
 * First Time Running for a Noatry Node
