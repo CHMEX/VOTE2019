@@ -32,7 +32,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * I'm helping out people as much as I can on Discord and Telegram. A lot of time I test new KMD features.
 * Onboarding System for PIRATE with <a href="https://pirate.dexstats.info?VOTE2019">Referral System</a>. 
 
-#### Upcoming in Development #####
+#### :soon: Upcoming in Development #####
 * Integrated Richlist :moneybag: and Node List to Explorers. New Type of Explorer might be around the corner.
 * KMD Rewards Bot - It will notify you when Rewards stopp accruing.
 * Simple Fundraising :dollar: Platform for Eco System Projects.
