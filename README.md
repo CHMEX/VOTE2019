@@ -70,8 +70,9 @@ I got some Donations from Community members over the last few month which I'm ve
 * :iphone: Discord: `CHMEX#0686`
 * :e-mail: Email: `chmex@dexstats.info`
 * :key: PGP: `8F9F41D44E98F84013E10F10780F6DE2576B2F6D`
-## Thank you for reading my proposal and thank you for sending your Votes to
 
+## Vote Now Deadline 14th May 2019
+### Thank you for reading my Proposal and sending your VOTE2019 to 
 <img src="https://github.com/CHMEX/VOTE2019/raw/master/chmex_qr_voting.png" align="right" height="190px" width="150px">
 
 ```
