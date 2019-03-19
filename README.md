@@ -63,8 +63,8 @@ I got some Donations from Community members over the last few month which I'm ve
 * I am an official Komodo Team Member (volunteering on partime base, not on payroll)
 * PIRATE Member First Mate 🏴
 * <a href="http://kmd.explorer.dexstats.info/address/RF4HiVeuYpaznRPs7fkRAKKYqT5tuxQQTL" target="_blank">LABS</a> Node Operator, therefore have the capability to run a Notary Node
-* To my current knowledge the location of my Node will be southern-most in Europe. It's outside of Hetzner / OVH Network I believe in a de-centralized network which I want to support this way.
-* First Time Running for a Noatry Node
+* To my current knowledge the location of my Node will be southern-most in Europe. It's outside of `Hetzner & OVH Network` I believe in a de-centralized network which I want to support this way.
+* First Time Running for a Notary Node
 
 ## Contact:
 :iphone: Discord: `CHMEX#0686`<br>
