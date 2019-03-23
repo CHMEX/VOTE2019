@@ -14,7 +14,7 @@ RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
 I am CHMEX Operator of <a href="https://dexstats.info" target="_blank">www.dexstats.info</a>, which provides various useful tools like `Trading History`, `Richlist & Lookup`, `Address Converter` and `PIRATE Migration & Onboarding` to name a few. Visit <a href="https://dexstats.info" target="_blank">dexstats.info</a> to learn more.
 I work an DevOPS IT Job in Telco where I'm exposed to a lot of Data.
 
-For the first time I would like to present myself as a candidate for Notary Node Election 2019 to operate a Node in the `EU Region`. **I only run for one Region with one Node**. In case of auto re-election in 2020 the proposed Use of Funds honored as well.
+For the first time I would like to present myself as a candidate for Notary Node Election 2019 to operate a Node in the `EU Region`. **I only run for one Region and one Node**. In case of auto re-election in 2020 the proposed Use of Funds honored as well.
 
 ## Why Vote for CHMEX - Dexstats
 
@@ -60,7 +60,7 @@ I got some Donations from Community members over the last few month which I'm ve
 * Server Location: `Central Switzerland` _( Side Note: 15m Underground in a ex-Military Bunker now Remodeled Datacenter )_
 
 ## Disclosure:
-* I am an official Komodo Team Member (volunteering on partime base, not on payroll)
+* I'm an official Komodo Team Member (volunteering on part time base, not on payroll)
 * PIRATE Member First Mate 🏴
 * <a href="http://kmd.explorer.dexstats.info/address/RF4HiVeuYpaznRPs7fkRAKKYqT5tuxQQTL" target="_blank">LABS</a> Node Operator, therefore have the capability to run a Notary Node
 * To my current knowledge the location of my Node will be southern-most in Europe. It's outside of `Hetzner & OVH Network` I believe in a de-centralized network which I want to support this way.
