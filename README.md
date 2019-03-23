@@ -31,7 +31,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * Maintaining and styled <a href="https://explorer.pirate.black"  target="_blank">https://explorer.pirate.black</a>
 * I'm helping out people as much as I can on Discord and Telegram. A lot of time I test new KMD features.
 * Onboarding System for PIRATE with <a href="https://pirate.dexstats.info/?VOTE2019">Referral System</a>. 
-* <a href="http://kmd.explorer.dexstats.info/address/RF4HiVeuYpaznRPs7fkRAKKYqT5tuxQQTL" target="_blank">LABS</a> Node Operator, therefore have the capability to run a Notary Node.
+* <a href="https://kmd.explorer.dexstats.info/address/RF4HiVeuYpaznRPs7fkRAKKYqT5tuxQQTL" target="_blank">LABS Node Operator</a>, therefore have the capability to run a Notary Node. Current Running LABS Node uses Notary Hardware and Location.
 
 #### :soon: Upcoming in Development #####
 * Integrated Richlist :moneybag: and Node List to Explorers. New Type of Explorer might be around the corner.
