@@ -50,7 +50,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * I will use Funds to pay Dev Bounties like RPC Integrations Bitcore and others. <a href="https://github.com/jl777/komodo/pull/1328"><b>getchaintxstats</b></a> to KMD was paid by me.
 
 If elected I can setup, run and pay more Servers and create new Tools I have a lot ideas, most importantly and `$BUIDL $BUIDL $BUIDL` for the next wave of Assetchains in 2019/2020.
-I got some Donations from Community members over the last few month which I'm very thankful. With the current Infrastructer I pay around USD 250 per Month out of my pocket.
+I got some Donations from Community members over the last few month which I'm very thankful. With the current Infrastructure I pay around USD 250 per Month out of my Pocket.
 
 ## Server Specs:
 * Processor: `2x Xeon E5-2630v3 8x2.4 GHz` <img src="https://github.com/CHMEX/VOTE2019/raw/master/chmex_datacenter.png" align="right">
