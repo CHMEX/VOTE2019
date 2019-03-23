@@ -41,7 +41,7 @@ For the first time I would like to present myself as a candidate for Notary Node
 * Node will be running in Switzerland with a politically stable and Crypto Friendly Goverment.
 
 ## Use of Funds:
-* Increasing Infrastructer to all Regions :world_map:
+* Increasing Infrastructure to all Regions :world_map: Bootstraps and Nodes on all Six Continents
 * 10% of total mined KMD to LABS :microscope: ( min. 150 KMD per Month )
 * 10% of total mined KMD to PIRATE :sailboat:	☠️ ( min. 150 KMD per Month )
 * Dedicating more time to the Komodo Eco System
