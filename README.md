@@ -11,7 +11,7 @@ RChMex2FrLoqL3C3ED9tADfRBnUsUFJ4rj
 <br>
 
 ## About me 
-I am CHMEX Operator of <a href="https://dexstats.info" target="_blank">www.dexstats.info</a>, which provides various useful tools like `Trading History`, `Richlist & Lookup`, `Address Converter` and `PIRATE Migration & Onboarding` to name a few. Visit <a href="https://dexstats.info" target="_blank">dexstats.info</a> to learn more.
+I am CHMEX Operator of <a href="https://dexstats.info" target="_blank">www.dexstats.info</a>, which provides various useful tools like `Trading History`, `Richlist & Lookup`, `Address Converter` and `PIRATE Migration & Onboarding` to name a few. Visit <a href="https://dexstats.info" target="_blank">dexstats</a> to learn more.
 I work an DevOPS IT Job in Telco where I'm exposed to a lot of Data.
 
 For the first time I would like to present myself as a candidate for Notary Node Election 2019 to operate a Node in the `EU Region`. **I only run for one Region and one Node**. In case of auto re-election in 2020 the proposed Use of Funds honored as well.
@@ -19,18 +19,19 @@ For the first time I would like to present myself as a candidate for Notary Node
 ## Why Vote for CHMEX - Dexstats
 
 ### ICO Contributor, Active Community Member since 2017, Team Member since 2018. ###
-#### :heavy_check_mark: Done. Running. #####
+#### :heavy_check_mark: Done and Running. #####
 * Running <a href="https://dexstats.info" target="_blank">www.dexstats.info</a> and all it's Tools which you have maybe already used.<br>
 * Running Fullnodes with about `4TB` of outbound data per month to help the network for all Notarized and known Assetchains<br>
 * Hosting Hourly updated <a href="https://dexstats.info/richlist.php" target="_blank">Richlists</a>. Realtime <a href="https://explorer.dexstats.info"  target="_blank">Coinsupply</a> with API. Daily updated **<a href="https://dexstats.info/bootstrap.php"  target="_blank">Bootstraps</a>** on all Notarized Assetchains. Hosting about 50+ Explorers for Live and Testing Network https://explorer.dexstats.info . I got BarterDEX listed on CMC with integration.
 * Hosting and maintaining API's to feed in Realtime _Blockfolio Coinfairvalue Blocktivity **CoinmarketCap** Coingecko Coinpaprika_ and others. Serving `4 Mio` API calls per day to these sites. That's `46 Req/s` or `1.4 Bil` Request per year.<br>
 * Helping out People Migrate funds `1+ Mio ARRR`, `1+ Mio USD` in NXT Assets saved. Trustee in OTC Transactions.
-* :trophy: Winner of the :beer:BEER & PIZZA:pizza: Atomic Swap contest in 2018. I will Airdrop `2 Mio` PIZZA-Testcoin to all my Voter regardless of the outcome of the Election! I was running LP Nodes on odd Pairs like DBG/HUSH HUSH/VTC during bullmarket. I'm running PIZZA/BEER LP nodes. With mm2.0 these marketmaker Nodes will be activated again. My addresses have been involved in approx. 10% of all BarterDEX Atomic Swaps.
+* :trophy: Winner of the :beer:BEER & PIZZA:pizza: Atomic Swap contest in 2018. I will Airdrop `1 Mio` PIZZA-Testcoin to all my Voters regardless of the outcome of the Election! I was running LP Nodes on odd Pairs like DBG/HUSH HUSH/VTC during bullmarket. I'm still running PIZZA/BEER LP nodes. With mm2.0 these marketmaker Nodes will be activated again. My addresses have been involved in approx. 10% of all BarterDEX Atomic Swaps.
 * I don't code C but some of suggested RPC Calls have been implemented by James and Duke (_getsnapshot coinsupply convaddress getchaintxstats_ to name a few.)
 * My <a href="https://dexstats.info/scale/index.html"  target="_blank">20k TPS / Visualization</a> was well Commented
 * Maintaining and styled <a href="https://explorer.pirate.black"  target="_blank">https://explorer.pirate.black</a>
 * I'm helping out people as much as I can on Discord and Telegram. A lot of time I test new KMD features.
-* Onboarding System for PIRATE with <a href="https://pirate.dexstats.info?VOTE2019">Referral System</a>. 
+* Onboarding System for PIRATE with <a href="https://pirate.dexstats.info/?VOTE2019">Referral System</a>. 
+* <a href="http://kmd.explorer.dexstats.info/address/RF4HiVeuYpaznRPs7fkRAKKYqT5tuxQQTL" target="_blank">LABS</a> Node Operator, therefore have the capability to run a Notary Node.
 
 #### :soon: Upcoming in Development #####
 * Integrated Richlist :moneybag: and Node List to Explorers. New Type of Explorer might be around the corner.
@@ -62,8 +63,8 @@ I got some Donations from Community members over the last few month which I'm ve
 ## Disclosure:
 * I'm an official Komodo Team Member (volunteering on part time base, not on payroll)
 * PIRATE Member First Mate 🏴
-* <a href="http://kmd.explorer.dexstats.info/address/RF4HiVeuYpaznRPs7fkRAKKYqT5tuxQQTL" target="_blank">LABS</a> Node Operator, therefore have the capability to run a Notary Node
-* To my current knowledge the location of my Node will be southern-most in Europe. It's outside of `Hetzner & OVH Network` I believe in a de-centralized network which I want to support this way.
+* LABS Member
+* To my current knowledge the location of my Node will be the southern-most in Europe. It's outside of `Hetzner & OVH Network` I believe in a de-centralized network which I want to support this way.
 * First Time Running for a Notary Node
 
 ## Contact:
