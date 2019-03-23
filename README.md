@@ -57,7 +57,7 @@ I got some Donations from Community members over the last few month which I'm ve
 * RAM: `128 GB`
 * Disk: `1TB SSD`
 * Power: `2x Power Supply 100% Renewable Energy` :green_heart:
-* Network: `1 Gbit Up and Down Link` Carrier neutral 30 Gbit Interconnect
+* Network: `1 Gbit` Carrier neutral 30 Gbit Interconnect
 * Server Location: `Central Switzerland` _( Side Note: 15m Underground in a ex-Military Bunker now Remodeled Datacenter )_
 
 ## Disclosure:
